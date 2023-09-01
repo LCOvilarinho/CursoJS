@@ -1,5 +1,5 @@
 body {
-    background: rgb(148, 252, 247);
+    background: rgb(20, 65, 28);
     font: normal 15pt Arial;
 }
 
@@ -18,7 +18,7 @@ section {
 }
 
 footer {
-    color: blue;
+    color: rgb(190, 146, 0);
     text-align: center;
     font-style: italic;
 }
